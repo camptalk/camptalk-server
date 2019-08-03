@@ -1,0 +1,8 @@
+F:\camptalk-server\CampTalkNet\CampTalkNet\bin\Debug\netcoreapp2.2\CampTalkNet.deps.json
+F:\camptalk-server\CampTalkNet\CampTalkNet\bin\Debug\netcoreapp2.2\CampTalkNet.runtimeconfig.json
+F:\camptalk-server\CampTalkNet\CampTalkNet\bin\Debug\netcoreapp2.2\CampTalkNet.runtimeconfig.dev.json
+F:\camptalk-server\CampTalkNet\CampTalkNet\bin\Debug\netcoreapp2.2\CampTalkNet.dll
+F:\camptalk-server\CampTalkNet\CampTalkNet\obj\Debug\netcoreapp2.2\CampTalkNet.csprojAssemblyReference.cache
+F:\camptalk-server\CampTalkNet\CampTalkNet\obj\Debug\netcoreapp2.2\CampTalkNet.csproj.CoreCompileInputs.cache
+F:\camptalk-server\CampTalkNet\CampTalkNet\obj\Debug\netcoreapp2.2\CampTalkNet.AssemblyInfoInputs.cache
+F:\camptalk-server\CampTalkNet\CampTalkNet\obj\Debug\netcoreapp2.2\CampTalkNet.AssemblyInfo.cs
